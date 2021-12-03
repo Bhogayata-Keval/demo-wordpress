@@ -1,3 +1,12 @@
 {
-  "services": {}
+        "services": {
+                "phpservice1": {
+                    "name": "PHP Service 1",
+                    "root_dir": "/",
+                    "build": [],
+                    "command": "",
+                    "arguments" : [],
+                    "port": "80"
+                }
+        }
 }
